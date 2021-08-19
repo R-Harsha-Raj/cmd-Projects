@@ -1,0 +1,14 @@
+{
+  "name": "n-folders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ndir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nfld": "ndir.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
